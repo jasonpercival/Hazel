@@ -1,2 +1,2 @@
 # Hazel
-Hazel Game Engine
+Hazel Engine
